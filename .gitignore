@@ -1,0 +1,12 @@
+**/GNU ARM v*/**
+**/.metadata/**
+**/outgoing/**
+**tmp**
+**/.closet/**
+**.bak
+**.zip
+**.mak
+**prebuild.py
+**postbuild.py
+**prebuild.bat
+**postbuild.bat

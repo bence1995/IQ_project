@@ -1,0 +1,47 @@
+API version: 5.1.2
+
+Protocol Configuration - Channel Group 1
+  Informational data:
+    Preamble Binary Pattern = 0101010101010101010101010101010101010101 
+    Sync Word Binary Pattern = 1111011010001101 
+    Actual Bandwidth = 19958 
+    Desired baudrate = 10000 
+    Actual sample frequency = 70007.34317939988 
+    Antenna diversity mode = 0 
+    Disable repeated measurement of first antenna when Select-Best algorithm is used = 0 
+    FEC enabled flag = 0 
+  Calculated and corrected values:
+    Timing Detection Threshold = 31 
+    Timing Samples Threshold = 0 
+    Frequency Offset Compensation (AFC) Limit = 0 Hz
+    Acquistion Channel Bandwidth = 20000 Hz
+    IF Frequency = 219450 Hz
+    PLL Bandwidth in TX mode = PLLBandwdithEnum.BW_354KHz 
+    PLL Bandwidth in RX mode = PLLBandwdithEnum.BW_250KHz 
+    Number of Symbols in Timing Window = 16 
+    Number of Errors Allowed in a Timing Window = 0 
+    Number of Timing Windows to Detect = 1 
+    Signal Quality Indicator Threshold = 0 
+    Timing Resync Period = 1 
+    Frequency Offset Period = 0 
+    Frequency Offset Compensation (AFC) Period = 0 
+    AGC Power Target = -8 dBm
+    RSSI Update Period = 3 
+    AGC Hysteresis = 3 dB
+    AGC Settling Delay = 24 
+    Frequency Offset Compensation (AFC) Step Scale = 1.0 
+    AGC Period = 0 
+    RX Baudrate offset = 0 Hz
+    AGC Speed = AgcMode.FAST 
+    Frequency Compensation Mode = FreqCompModeEnum.INTERNAL_ALWAYS_ON 
+    SRC Operation = src_disable.ENABLED 
+    AGC backoff scheme = AGC_Scheme.SCHEME_1 
+    ETSI Category 1 Compatibility = etsi_cat1_compatible.Normal 
+    Target oversampling rate = 7 
+    OOK slicer level = 3 
+    Antenna diversity mode = AntDivModeEnum.DISABLE 
+    Diversity Select-Best repeat = AntDivRepeatDisModeEnum.REPEATFIRST 
+    Common RX/TX circuit = IRCalRXTXPathCommonEnum.SHARED_RX_TX_PATH 
+    IR cal power level (amplitude) = 0 codes
+    Byte position of dynamic length byte = 0 
+    First word in frame contains (BITSPERWORD+1) bits. In most cases, set to 7. = 7 bytes
